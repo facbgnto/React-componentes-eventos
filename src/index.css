@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("/src/assets/img/fondo2.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error {
+  padding: 10px;
+  max-width: 30%;
+  color: white;
+  background-color: red;
+  text-align: center;
+  font-weight: bold;
+  }
+
