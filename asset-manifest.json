@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/React-componentes-eventos/static/css/main.073c9b0a.css",
-    "main.js": "/React-componentes-eventos/static/js/main.3a65159b.js",
+    "main.css": "/React-componentes-eventos/static/css/main.77efa555.css",
+    "main.js": "/React-componentes-eventos/static/js/main.8f868a02.js",
     "static/js/787.749fc2d4.chunk.js": "/React-componentes-eventos/static/js/787.749fc2d4.chunk.js",
+    "static/media/fondo2.jpg": "/React-componentes-eventos/static/media/fondo2.761422e50e8747bb0bc0.jpg",
     "static/media/logo.svg": "/React-componentes-eventos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-componentes-eventos/index.html",
-    "main.073c9b0a.css.map": "/React-componentes-eventos/static/css/main.073c9b0a.css.map",
-    "main.3a65159b.js.map": "/React-componentes-eventos/static/js/main.3a65159b.js.map",
+    "main.77efa555.css.map": "/React-componentes-eventos/static/css/main.77efa555.css.map",
+    "main.8f868a02.js.map": "/React-componentes-eventos/static/js/main.8f868a02.js.map",
     "787.749fc2d4.chunk.js.map": "/React-componentes-eventos/static/js/787.749fc2d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3a65159b.js"
+    "static/css/main.77efa555.css",
+    "static/js/main.8f868a02.js"
   ]
 }
